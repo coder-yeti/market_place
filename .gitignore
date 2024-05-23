@@ -1,8 +1,10 @@
 #all cachce files
 __pycache__/
+.pyc
 
 #all env files
 env/
 
 #auto created files
 .idea/
+
